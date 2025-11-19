@@ -32,8 +32,8 @@ export const HelpModal: React.FC<HelpModalProps> = ({ isOpen, onClose }) => {
                             <X size={20} />
                         </button>
 
-                        <h2 className="text-2xl font-bold font-mono mb-8 text-transparent bg-clip-text bg-gradient-to-r from-neon-cyan to-electric-purple tracking-tighter">
-                            QUANTUM MANUAL
+                        <h2 className="text-2xl font-bold font-mono mb-8 text-gray-300 tracking-tighter">
+                            Schrödinger's Task
                         </h2>
 
                         <div className="space-y-8 font-mono text-sm text-white/70">

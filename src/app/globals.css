@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+@theme {
+  --color-neon-cyan: var(--color-neon-cyan);
+  --color-electric-purple: var(--color-electric-purple);
+  --color-magenta: var(--color-magenta);
+}
+
 :root {
   --color-background: #050505;
   --color-foreground: #ededed;
